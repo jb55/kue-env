@@ -1,7 +1,7 @@
 {
   "name": "kue-env",
   "description": "Environment-initialized kue",
-  "keywords": [],
+  "keywords": ["kue"],
   "version": "0.0.1",
   "repository": {
     "type": "git",
@@ -10,9 +10,5 @@
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
-  },
-  "dependencies": {},
-  "devDependencies": {
-    "tape": "*"
   }
 }
